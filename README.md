@@ -24,6 +24,9 @@ A simple console-based Java application that converts temperatures between **Cel
 javac Main.java
 java Main
 
+
+###  Sample Output
+
 ENTER THE TEMPERATURE YOU WISH TO CONVERT:
 23
 SELECT THE UNIT YOU WISH TO CONVERT FROM (C/F):
